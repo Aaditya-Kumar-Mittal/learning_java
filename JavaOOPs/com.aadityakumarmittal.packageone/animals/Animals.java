@@ -1,7 +1,7 @@
 public class Animals {
-    private final String name;
-    private final int age;
-    private final double weight;
+    private String name;
+    private int age;
+    private double weight;
 
     public Animals(String name, int age, double weight) {
         this.name = name;
