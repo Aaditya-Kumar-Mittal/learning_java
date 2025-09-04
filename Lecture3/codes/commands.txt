@@ -1,0 +1,11 @@
+javac -d . MyMain.java
+javac -d . MyStudent.java
+javac -d . MyTeacher.java
+javac -d . StudentDetails.java
+javac -d . TeacherDetails.java
+java com.college.MyMain
+java com.college.student.MyStudent
+java com.college.student.StudentDetails
+java com.college.student.studentDetails.StudentDetails
+java com.college.teacher.MyTeacher
+java com.college.teacher.teacherDetails.TeacherDetails
